@@ -1,8 +1,8 @@
 {
   "name": "Adnan Shahnawaz",
   "version": "1.0.0",
-  "description": "Nuxt.js project",
-  "author": "Brian 'bdougie' Douglas <ilikerobot@gmail.com>",
+  "description": "Adnan project",
+  "author": "adnan  <ilikerobot@gmail.com>",
   "private": true,
   "dependencies": {
     "nuxt": "latest"
