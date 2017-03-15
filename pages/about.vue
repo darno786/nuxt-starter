@@ -10,7 +10,7 @@
     <nuxt-link class="button" to="/">
       Home page
     </nuxt-link>
-    <nuxt-link class="button" to="/">
+    <nuxt-link class="button" to="contact">
       Contact Us
     </nuxt-link>
   </section>
