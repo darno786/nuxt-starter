@@ -10,6 +10,9 @@
     <nuxt-link class="button" to="/contact">
       Contact us
     </nuxt-link>
+    <nuxt-link class="button" to="/">
+      links
+    </nuxt-link>  
   </section>
 </template>
 
